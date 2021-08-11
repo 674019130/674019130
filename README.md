@@ -1,5 +1,4 @@
 ### Hi there，I'm 苏。👋
-后端开发工程师。
 
 <p align="center">
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
