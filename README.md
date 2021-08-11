@@ -13,7 +13,15 @@
 
 ![描述](https://komarev.com/ghpvc/?username=674019130&color=green)
 
-![info](https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=674019130&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=674019130&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    -->
+  </a>
+</p>
+
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
