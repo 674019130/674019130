@@ -13,7 +13,7 @@
     </a>
   <br><br>
   <strong>Check out my work below!</strong>
-  <br><br>
+  <br>
   <a href="https://github.com/674019130">
     <img src="https://badges.pufler.dev/visits/674019130/674019130?style=flat-square&color=black&logo=github">
   </a>
