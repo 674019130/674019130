@@ -23,9 +23,6 @@
   <a href="https://github.com/674019130?tab=repositories">
     <img src="https://badges.pufler.dev/repos/674019130?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/674019130">
-    <img src="https://badges.pufler.dev/gists/674019130?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/674019130">
     <img src="https://badges.pufler.dev/commits/monthly/674019130?style=flat-square&color=black&logo=github">
   </a>
