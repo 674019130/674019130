@@ -9,25 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-    </a>
-  <br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/674019130">
-    <img src="https://badges.pufler.dev/visits/674019130/674019130?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/674019130">
-    <img src="https://badges.pufler.dev/years/674019130?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/674019130?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/674019130?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/674019130">
-    <img src="https://badges.pufler.dev/commits/monthly/674019130?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 <h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="谁是谁的英雄"> &nbsp;&nbsp;&nbsp;&nbsp;
