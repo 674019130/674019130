@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="谁是谁的英雄"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/treepoem)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/treepoem)](https://leetcard.jacoblin.cool/treepoem?theme=wtf&font=Electrolize&ext=activity&site=cn)
 
 <!-- 
 <br>
