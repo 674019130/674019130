@@ -12,7 +12,9 @@
 <h2></h2>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/treepoem?theme=wtf&font=Electrolize&ext=activity&site=cn)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/treepoem?theme=wtf&font=Electrolize&ext=activity&site=cn" alt="LeetCode Stats">
+</p>
 
 <!-- 
 <br>
