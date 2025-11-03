@@ -15,8 +15,6 @@
 
 ---
 
-🇨🇳 **中文简介**
-
 我目前就职于一家专注开发 **AI-Native 社交平台** 的初创公司，对 **AI Agent** 拥有强烈的热情。  
 主要技术栈包括 **Java** 与 **Python**，前端 **Next.js** 由 **Codex** 与 **Claude Code** 等 AI 编码助手驱动完成。  
 我持续关注 **LangChain** 与 **LangGraph v1.0** 的演进，探索 AI 驱动交互的新形态。  
@@ -40,8 +38,8 @@
 
 ### 💬 Fun Facts
 - 🧑‍💻 Focused on **AI-native system architecture** and **multi-agent orchestration**.  
-- ✍️ Writes about AI engineering on [my blog](https://674019130.github.io/).  
-- 🎮 Sometimes plays Nintendo Switch & Steam games to unwind.  
+- ✍️ Writes personal essays & reflections on [my blog](https://674019130.github.io/).  
+- 🎮 Sometimes plays Steam games to unwind.  
 - 🧠 Always learning, always curious.
 
 ---
