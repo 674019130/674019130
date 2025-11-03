@@ -15,13 +15,6 @@
 
 ---
 
-我目前就职于一家专注开发 **AI-Native 社交平台** 的初创公司，对 **AI Agent** 拥有强烈的热情。  
-主要技术栈包括 **Python** 与 **Java**，前端 **Next.js** 由 **Codex** 与 **Claude Code** 等 AI 编码助手驱动完成。  
-我持续关注 **LangChain** 与 **LangGraph v1.0** 的演进，探索 AI 驱动交互的新形态。  
-欢迎一起玩耍、交流与创造！
-
----
-
 ### 🧠 Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
