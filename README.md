@@ -9,14 +9,14 @@
 ---
 
 🚀 I’m currently working at a startup building an **AI-Native Social Platform**, deeply passionate about **AI Agents** and autonomous systems.  
-💻 My tech stack spans **Java** and **Python**, with the **Next.js** frontend powered by AI coding assistants like **Codex** and **Claude Code**.  
+💻 My tech stack spans **Python** and **Java**, with the **Next.js** frontend powered by AI coding assistants like **Codex** and **Claude Code**.  
 🧩 Following **LangChain** and **LangGraph v1.0** closely — exploring the next frontier of **AI-driven interaction**.  
 ⚙️ Let’s **build, experiment, and play** together.
 
 ---
 
 我目前就职于一家专注开发 **AI-Native 社交平台** 的初创公司，对 **AI Agent** 拥有强烈的热情。  
-主要技术栈包括 **Java** 与 **Python**，前端 **Next.js** 由 **Codex** 与 **Claude Code** 等 AI 编码助手驱动完成。  
+主要技术栈包括 **Python** 与 **Java**，前端 **Next.js** 由 **Codex** 与 **Claude Code** 等 AI 编码助手驱动完成。  
 我持续关注 **LangChain** 与 **LangGraph v1.0** 的演进，探索 AI 驱动交互的新形态。  
 欢迎一起玩耍、交流与创造！
 
