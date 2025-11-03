@@ -1,51 +1,57 @@
-### Hi there，I'm 苏。👋
+### Hi there, I'm 苏 👋
 
 <p align="center">
-  <a href="https://github.com/674019130" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=674019130&title_color=333&text_color=666" alt="Su's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=674019130&hide=issues&title_color=333&text_color=777" alt="Su's Stats" >
-    -->
+  <a href="https://github.com/674019130">
+    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=333&text_color=666&icon_color=4C8EDA" alt="Su's GitHub Stats" />
   </a>
 </p>
 
-<h2></h2>
-🚀 I’m currently working at a startup building an AI-Native Social Platform, deeply passionate about AI Agents and autonomous systems.
-💻 My tech stack spans Java and Python, with the Next.js frontend powered by AI coding assistants like Codex and Claude Code.
-🧩 Following LangChain and LangGraph v1.0 closely — exploring the next frontier of AI-driven interaction.
-⚙️ Let’s build, experiment, and play together.
+---
 
-我目前就职于一家专注开发 AI-Native 社交平台 的初创公司，对 AI Agent 拥有强烈的热情。
-主要技术栈包括 Java 与 Python，前端 Next.js 则由 Codex 与 Claude Code 等 AI 编码助手驱动完成。
-我持续关注 LangChain 与 LangGraph v1.0 的演进，探索 AI 驱动交互的新形态。
+🚀 I’m currently working at a startup building an **AI-Native Social Platform**, deeply passionate about **AI Agents** and autonomous systems.  
+💻 My tech stack spans **Java** and **Python**, with the **Next.js** frontend powered by AI coding assistants like **Codex** and **Claude Code**.  
+🧩 Following **LangChain** and **LangGraph v1.0** closely — exploring the next frontier of **AI-driven interaction**.  
+⚙️ Let’s **build, experiment, and play** together.
+
+---
+
+🇨🇳 **中文简介**
+
+我目前就职于一家专注开发 **AI-Native 社交平台** 的初创公司，对 **AI Agent** 拥有强烈的热情。  
+主要技术栈包括 **Java** 与 **Python**，前端 **Next.js** 由 **Codex** 与 **Claude Code** 等 AI 编码助手驱动完成。  
+我持续关注 **LangChain** 与 **LangGraph v1.0** 的演进，探索 AI 驱动交互的新形态。  
 欢迎一起玩耍、交流与创造！
 
-<!-- 
-<br>
+---
 
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+### 🧠 Tech Stack & Tools
 
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/dontnegativeme)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-v1.0-6E56CF)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 
-![visitors](https://komarev.com/ghpvc/?username=674019130&color=green)
+---
 
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+### 💬 Fun Facts
+- 🧑‍💻 Focused on **AI-native system architecture** and **multi-agent orchestration**.  
+- ✍️ Writes about AI engineering on [my blog](https://674019130.github.io/).  
+- 🎮 Sometimes plays Nintendo Switch & Steam games to unwind.  
+- 🧠 Always learning, always curious.
 
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+---
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/) -->
+<p align="center">
+  <a href="https://github.com/674019130">
+    <img src="https://komarev.com/ghpvc/?username=674019130&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 <!--
-**674019130/674019130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**674019130/674019130** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
