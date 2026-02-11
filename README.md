@@ -1,11 +1,5 @@
 ### Hi there, I'm 苏 👋
 
-<p align="center">
-  <a href="https://github.com/674019130">
-    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=333&text_color=666&icon_color=4C8EDA" alt="Su's GitHub Stats" />
-  </a>
-</p>
-
 ---
 
 🚀 I’m currently working at a startup building an **AI-Native Social Platform**, deeply passionate about **AI Agents** and autonomous systems.  
@@ -45,4 +39,11 @@
 
 <!--
 **674019130/674019130** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+  <a href="https://github.com/674019130">
+    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=333&text_color=666&icon_color=4C8EDA" alt="Su's GitHub Stats" />
+  </a>
+</p>
 -->
