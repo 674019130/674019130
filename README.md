@@ -1,49 +1,76 @@
-### Hi there, I'm 苏 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+%E8%8B%8F+%F0%9F%91%8B;Builder+%7C+Hacker+%7C+Geek" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <em>Working at a startup building an <strong>AI-Native Social Platform</strong>.<br/>Passionate about AI Agents, autonomous systems, and anything that feels like the future.</em>
+</p>
 
 ---
 
-🚀 I’m currently working at a startup building an **AI-Native Social Platform**, deeply passionate about **AI Agents** and autonomous systems.  
-💻 My tech stack spans **Python** and **Java**, with the **Next.js** frontend powered by AI coding assistants like **Codex** and **Claude Code**.  
-🧩 Following **LangChain** and **LangGraph v1.0** closely — exploring the next frontier of **AI-driven interaction**.  
-⚙️ Let’s **build, experiment, and play** together.
+### ⚡ What I Do
+
+```text
+🛠  Builder by nature     Ship fast, break things, fix them faster
+🔌  Plugin maker          Browser extensions, Yaak plugins, Claude Code skills
+🔍  Reverse engineer      Traced obfuscated AI detection systems to the bone
+📡  Scale veteran         100M+ scale systems, EMQX MQTT migration, PostgreSQL
+🤖  Agent builder         Writing agents, deep research pipelines with LLMs
+🧪  Early adopter         Claude Code · Codex · Antigravity — day-one user, still going
+```
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 🧠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-v1.0-6E56CF)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMQX-5C2D91?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💬 Fun Facts
-- 🧑‍💻 Focused on **AI-native system architecture** and **multi-agent orchestration**.  
-- ✍️ Writes personal essays & reflections on [my blog](https://674019130.github.io/).  
-- 🎮 Sometimes plays Steam games to unwind.  
-- 🧠 Always learning, always curious.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
+  <img src="https://leetcard.jacoblin.cool/su-674019130?theme=dark&font=Fira%20Code&ext=heatmap" height="165" />
+</p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/674019130">
-    <img src="https://komarev.com/ghpvc/?username=674019130&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <em>If it's new, I'm probably already trying it.</em>
 </p>
-
-<!--
-**674019130/674019130** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <p align="center">
-  <a href="https://github.com/674019130">
-    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=333&text_color=666&icon_color=4C8EDA" alt="Su's GitHub Stats" />
-  </a>
+  <a href="https://674019130.github.io/"><img src="https://img.shields.io/badge/Blog-674019130.github.io-58A6FF?style=flat-square" /></a>
+  <a href="https://github.com/674019130"><img src="https://komarev.com/ghpvc/?username=674019130&label=Visitors&color=58A6FF&style=flat-square" /></a>
 </p>
--->
