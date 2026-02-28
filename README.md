@@ -50,18 +50,21 @@
       <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
-      <img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
-  <img src="https://leetcard.jacoblin.cool/su-674019130?theme=dark&font=Fira%20Code&ext=heatmap" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true" height="165" />
+  </picture>
+  <img src="https://leetcard.jacoblin.cool/treepoem?theme=dark&font=Fira%20Code&ext=heatmap&site=cn" height="165" />
 </p>
 
 ---
