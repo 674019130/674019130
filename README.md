@@ -59,11 +59,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=674019130&show_icons=true&hide_border=true" height="165" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=674019130&theme=github_dark" height="165" />
   <img src="https://leetcard.jacoblin.cool/treepoem?theme=dark&font=Fira%20Code&ext=heatmap&site=cn" height="165" />
 </p>
 
